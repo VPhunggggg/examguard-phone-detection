@@ -1,3 +1,5 @@
+![ExamGuard — vision & monitoring](docs/images/cover.png)
+
 <div align="center">
 
 # ExamGuard

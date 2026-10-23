@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title description">
+  <title id="title">ExamGuard — VISION &amp; MONITORING</title>
+  <desc id="description">Phone-use detection across images, video and live cameras. An original project cover in a coordinated dark and orange portfolio series.</desc>
+  <rect width="1280" height="420" rx="12" fill="#0D1117"/>
+  <rect x=".5" y=".5" width="1279" height="419" rx="12" fill="none" stroke="#30363D"/>
+  <g transform="translate(0,0)">
+    <path d="M48 49h28" stroke="#F0883E" stroke-width="3"/>
+    <g font-family="Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="1.4">
+      <text x="92" y="55" fill="#B1BAC4">03 / VISION &amp; MONITORING</text>
+      <text x="1232" y="55" text-anchor="end" fill="#8B949E">NVP. / PROJECT SERIES</text>
+    </g>
+    <path d="M48 83h1184M48 334h1184M850 116v180" stroke="#30363D"/>
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <text x="45" y="181" fill="#E6EDF3" font-size="76" font-weight="600" letter-spacing="-2.5">ExamGuard</text>
+      <text x="49" y="231" fill="#B1BAC4" font-size="25">Phone-use detection across images,</text>
+      <text x="49" y="267" fill="#B1BAC4" font-size="25">video and live cameras.</text>
+    </g>
+    <g transform="translate(909,105)" stroke-linecap="round">
+    <rect x="89" y="10" width="100" height="177" rx="16" fill="#161D26" stroke="#E6EDF3" stroke-width="2"/>
+    <path d="M119 22h40" stroke="#8B949E" stroke-width="3" stroke-linecap="round"/>
+    <rect x="99" y="35" width="80" height="126" rx="4" fill="#0D1117" stroke="#30363D"/>
+    <circle cx="139" cy="174" r="4" stroke="#8B949E" fill="none"/>
+    <path d="M64 63V41h22m105 0h22v22M64 133v22h22m105 0h22v-22" stroke="#F0883E" stroke-width="3" fill="none"/>
+    <path d="M119 72h40v52h-40Z" stroke="#F0883E" fill="#F0883E" fill-opacity=".08"/>
+    <path d="M104 98h70" stroke="#F0883E" stroke-width="2"/>
+    <path d="m219 126 29 10v24c0 18-29 30-29 30s-29-12-29-30v-24Z" fill="#161D26" stroke="#8B949E" stroke-width="2"/>
+    <path d="m206 156 9 9 16-20" stroke="#F0883E" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="49" y="376" fill="#8B949E" font-family="Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing=".6">YOLO  /  FLASK  /  REACT + TYPESCRIPT</text>
+    <path d="M1195 375h35m-10-10 10 10-10 10" stroke="#F0883E" fill="none" stroke-width="2"/>
+  </g>
+</svg>
