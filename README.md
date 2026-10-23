@@ -176,7 +176,7 @@ API và giao diện dùng chung hai ID lớp công khai:
 | `1` | `phone` | Điện thoại |
 | `7` | `using_phone` | Đang sử dụng điện thoại |
 
-Mô hình mặc định sử dụng trực tiếp lớp `1` và `7` của checkpoint. Với YOLOv8n COCO, lớp gốc `67 = cell phone` được ánh xạ thành lớp công khai `1 = phone`; mô hình này không trả về lớp `using_phone`.
+Mô hình mặc định sử dụng trực tiếp lớp `1` và `7` của checkpoint.
 
 Cả hai nhãn công khai đều được tính là có phát hiện điện thoại khi đánh giá trạng thái cảnh báo. Ngưỡng confidence mặc định là `0.5`, có thể điều chỉnh trong khoảng `0.1–0.9`. Confidence là điểm tin cậy của từng dự đoán, không phải độ chính xác tổng thể của mô hình.
 
